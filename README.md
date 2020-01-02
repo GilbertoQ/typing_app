@@ -1,6 +1,9 @@
 # typing_app
 
 A new Flutter project.
+Example of the Project
+
+![Demo](./typing_app.gif)
 
 ## Getting Started
 
