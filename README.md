@@ -3,7 +3,7 @@
 A new Flutter project.
 Example of the Project
 
-![Demo](./typing_app.gif width="250" height="250")
+<a href="url"><img src="./typing_app.gif" align="left" height="48" width="48" ></a>
 
 ## Getting Started
 
