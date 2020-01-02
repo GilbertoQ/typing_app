@@ -3,7 +3,7 @@
 A new Flutter project.
 Example of the Project
 
-![Demo](./typing_app.gif)
+![Demo](./typing_app.gif = 250x250)
 
 ## Getting Started
 
