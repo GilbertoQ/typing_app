@@ -117,6 +117,10 @@ class _typingScreenState extends State<typingScreen> {
             Container(
               height: 100,
               child: TextField(
+                decoration: InputDecoration(
+                border: OutlineInputBorder(),
+                labelText: 'Input Field',
+                ),
                 maxLines: 50,
                 controller: _controller,
                 onChanged: (String text) async {
